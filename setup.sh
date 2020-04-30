@@ -12,6 +12,7 @@ brew install kubernetes-cli
 brew install kops
 brew cask install atom
 brew install git-crypt
+brew install gpg
 
 apm install git-language
 apm install linter-yaml
