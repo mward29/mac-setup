@@ -8,6 +8,7 @@ brew install wget
 brew install awscli
 brew install python
 brew install jq
+brew install docker
 brew install kubernetes-cli
 brew install kops
 brew cask install atom
